@@ -1,1 +1,2 @@
 # odin-recipes
+This project entails creating my first html site. I will be adding different recipes to this site. I haven't learned CSS yet so this html site will be very bare bones only using html tags I've learned.
